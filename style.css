@@ -39,7 +39,7 @@ body {
 }
 
 .header .shoes {
-    transform: translateX(150px);
+    transform: translateX(300px);
 }
 
 .header .shoes .shoes_image {
